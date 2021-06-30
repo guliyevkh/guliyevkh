@@ -1,4 +1,4 @@
-- 👋 hello-world, I’m @guliyevkh
+- 👋 Hi, I’m @guliyevkh
 - 👀 I’m interested in ML / AI
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any Data Science related projects
