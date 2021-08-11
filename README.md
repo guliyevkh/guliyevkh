@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guliyevkh
-- 👀 I’m interested in ML / AI
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on any Data Science related projects
+- 👀 I’m interested in Fullstack Software Engineering
+- 🌱 I’m currently learning HTML / CSS / Javascript & Python
+- 💞️ I’m looking to collaborate on any Web / Mobile Development projects
 - 📫 How to reach me: guliyevkh@gmail.com
 - Note: Provided answers above may be broad since I am making my first steps. I will be updating along the way as I know more ... XOXO
 
